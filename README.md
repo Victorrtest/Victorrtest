@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Victorrtest
+- 👋 Hi, I’m @Victor
 - 👀 I’m interested in testing
 
 
